@@ -6,9 +6,9 @@ With proven success in global and distributed organizations, building high-perfo
  
 Currently focused on the intersection between serverless, cloud computing and Kubernetes, looking forward to apply AI/ML concepts whenever possible. 
 
-## For more information 🔗
+## For more information 📫💬
 
-Please visit my website - https://markito.io
+You can visit my website - https://markito.io or find me on twitter [@william_markito](https://twitter.com/william_markito)
 
 
 <!--
