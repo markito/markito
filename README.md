@@ -1,10 +1,10 @@
 # About me 📃
 
-**William Markito Oliveira** is an energetic and passionate technical Product Manager with expertise in software engineering and distributed systems. He leads a group of product managers working on innovative and emerging technologies, from inception to market, acting as a proxy for customers, business units and engineering teams. 
+**William Markito Oliveira** is an energetic and passionate technical Product Manager with expertise in software engineering and distributed systems. He leads a group of product managers working on innovative and emerging technologies, from inception to market, acting as a proxy for customers, business units, and engineering teams. 
 
 With proven success in global and distributed organizations, building high-performance teams and successful products, identifying and assessing needs for building new products, and managing product portfolios. He has experience in establishing internal and external partnerships delivering high-value outcomes. Engaged in open source by fostering communities, governance and looking forward to embracing new technologies and paradigms with a focus on distributed systems. Speaker at multiple software conferences and co-author of a few books on the field. 
  
-Currently focused on the intersection between serverless, cloud computing and Kubernetes, looking forward to apply AI/ML concepts whenever possible. 
+Currently focused on the intersection between serverless, cloud computing, and Kubernetes, looking forward to applying AI/ML concepts whenever possible. 
 
 ## For more information 📫💬
 
