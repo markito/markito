@@ -10,6 +10,7 @@ Currently focused on the intersection between serverless, cloud computing, and K
 
 You can visit my website - https://markito.io or find me on twitter [@william_markito](https://twitter.com/william_markito)
 
+<!-- ![My github stats](https://github-readme-stats.vercel.app/api?username=mchmarny&show_icons=true) -->
 
 <!--
 **markito/markito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
