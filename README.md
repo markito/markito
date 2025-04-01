@@ -1,10 +1,15 @@
 # About me 📃
 
-**William Markito Oliveira** is an energetic and passionate Technical Product Manager with expertise in software engineering and distributed systems. He leads a group of product managers working on innovative and emerging technologies, from inception to market, acting as a proxy for customers, business units, and engineering teams. 
+**William Markito Oliveira** is an energetic and passionate Product Executive and Technologist with deep expertise in software engineering and distributed systems. He leads a team of product managers focused on innovative and emerging technologies—guiding products from inception to market—while acting as a customer advocate and bridging business and engineering priorities.
 
-With proven success in global and distributed organizations, building high-performance teams and successful products, identifying and assessing needs for building new products, and managing product portfolios. He has experience in establishing internal and external partnerships delivering high-value outcomes. Engaged in open source by fostering communities, governance and looking forward to embracing new technologies and paradigms with a focus on distributed systems. Speaker at multiple software conferences and co-author of a few books on the field. 
- 
-Currently focused on the intersection between serverless, cloud computing, and Kubernetes, looking forward to applying AI/ML concepts whenever possible. 
+He brings a strong track record of success in global, distributed organizations, building high-performance teams, delivering impactful products, and managing strategic product portfolios. William has extensive experience in forming internal and external partnerships that drive high-value outcomes.
+
+As a leader, he is known for cultivating autonomy and accountability, empowering teams to move fast while staying grounded in customer needs and strategic clarity.
+
+An active member of the open source community, he contributes by fostering inclusive communities, shaping governance models, and promoting adoption of new technologies and paradigms. He is a frequent speaker at software conferences and co-author of a few books on software architecture and systems.
+
+Currently, he is exploring the intersection of serverless, cloud computing, and Kubernetes—while increasingly applying AI/ML concepts to real-world problems. He also had a stint in the automotive industry, mostly focused on vehicle software updates.
+
 
 ## For more information 📫💬
 
